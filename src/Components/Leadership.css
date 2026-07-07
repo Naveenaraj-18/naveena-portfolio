@@ -1,0 +1,77 @@
+#leadership{
+
+padding:80px 10%;
+
+background:#0f172a;
+
+}
+
+
+
+#leadership h2{
+
+text-align:center;
+
+font-size:40px;
+
+color:#facc15;
+
+margin-bottom:40px;
+
+}
+
+
+
+.leadership-card{
+
+max-width:800px;
+
+margin:auto;
+
+background:#1e293b;
+
+padding:40px;
+
+border-radius:20px;
+
+box-shadow:0 10px 30px rgba(0,0,0,.4);
+
+}
+
+
+
+.leadership-card h3{
+
+color:#38bdf8;
+
+font-size:28px;
+
+}
+
+
+
+.leadership-card h4{
+
+color:#f472b6;
+
+margin:15px 0;
+
+}
+
+
+
+.leadership-card p{
+
+line-height:1.8;
+
+color:#e2e8f0;
+
+}
+
+
+
+.leadership-card li{
+
+margin:12px 0;
+
+}

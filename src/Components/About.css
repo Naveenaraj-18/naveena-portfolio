@@ -1,0 +1,41 @@
+#about{
+
+padding:80px 10%;
+
+background:#0f172a;
+
+}
+
+
+.about-card{
+
+background:#1e293b;
+
+padding:40px;
+
+border-radius:20px;
+
+text-align:center;
+
+box-shadow:0 10px 30px black;
+
+}
+
+
+.about-card h2{
+
+color:#38bdf8;
+
+font-size:40px;
+
+}
+
+.about-card p{
+
+margin-top:20px;
+
+line-height:1.8;
+
+color:#ddd;
+
+}
